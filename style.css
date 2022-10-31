@@ -1,4 +1,8 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+body { 
+    font-family: 'Roboto', sans-serif;
     text-align: center;
     background-color: darkorchid;
 }
@@ -18,7 +22,7 @@ h3 {
 .imagem-logo {
     width: 10%;
     margin-left: 18px;
-    border-radius: 90px;
+    border-radius: 90px;@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
     box-shadow: 2px 2px 2px #111111;
 }
 nav {
